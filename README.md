@@ -95,8 +95,8 @@ Implementación de flujos automatizados para reducir tareas manuales.
 
 ## 📫 Contacto
 
-- LinkedIn: (pon tu link)
-- Email: (opcional)
+- LinkedIn: [(Profile)](https://www.linkedin.com/in/juan-cuellar-8aa62b195/)
+- Email: cuellarf.juan@gmail.com
 
 ---
 
